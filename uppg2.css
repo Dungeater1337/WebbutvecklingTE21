@@ -1,0 +1,49 @@
+body{
+
+    background-color: black;
+
+}
+
+p{
+
+    color: blue;
+}
+
+h1, h2{
+
+color: blueviolet;
+    text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+     font-size: 22px;
+}
+
+h2{
+
+color: blueviolet;
+
+}
+
+.q{
+
+text-align: center;
+background-color: red;
+
+}
+
+.q2{
+
+text-align: right;    
+
+}
+
+a{
+
+text-decoration: none;    
+
+}
+
+.p{
+
+border: 22px solid red;
+
+}
