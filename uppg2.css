@@ -59,13 +59,6 @@ td,th{
     width: 200px;
 }
 
-.s, .d{
-
-text-align: center;
-
-}
-
-
 td:nth-child(4), th:nth-child(4){
     text-align: right;
 }
@@ -80,6 +73,21 @@ th:nth-child(1){
     text-align: left;
 }
 
-th:nth-child(1), th:nth-child(2), th:nth-child(3), th:nth-child(4){
+tr{
+    background-color: red;
+}
+
+tr:nth-child(odd){
+
+    background-color: yellow;
+}
+
+tr:nth-child(1){
 background-color: gray
 }
+
+
+ 
+
+
+
