@@ -87,7 +87,37 @@ background-color: gray
 }
 
 
- 
+table{
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 200px;
+    height: 200px;
+
+}
+
+.one{ 
+background-color: lightskyblue;
+
+}
+
+.two {
+
+    background-color: silver;
+}
+
+.three{ 
+    background-color: blue;
+}
+
+.four{ 
+    background-color: black;
+}
+
+.five{ 
+    background-color: green;
+}
+
 
 
 
